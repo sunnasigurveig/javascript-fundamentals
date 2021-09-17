@@ -7,3 +7,4 @@ So after some time trying to figure it out I realized I could check other studen
 I copied his code to my VsCode and checked out the console in the inspect thingy. I understood js much more from his code.
 I changed his coding in my file to practise the skills and understand this even better. 
 I wanted to mention this in here so that I wouldn't be taking full credit for this, because his js code is amazing and super understandable.
+So thank you Tristan! You made this so easy for me to understand :D
